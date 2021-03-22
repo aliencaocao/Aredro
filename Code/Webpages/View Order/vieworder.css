@@ -1,0 +1,19 @@
+/* CSS Style Sheet by Billy Cao, Aredro Development Team, Hwa Chong Institution 1A1 (2017) */
+table {
+    font-size: 150%;
+    border: 7px solid black;
+    box-shadow: 10px 10px 5px #888888;
+    border-collapse: collapse;
+}
+
+table,
+td,
+th {
+    border: 2.5px solid black;
+    text-align: center;
+    padding: 8px
+}
+
+#title {
+    background-color: lightgray;
+}
