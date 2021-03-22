@@ -1,36 +1,5 @@
 # Aredro
 A simple ordering app for HCI Student Council welfare
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 1.111 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Mon Mar 22 2021 04:11:46 GMT-0700 (PDT)
-* Source doc: Aredro Public Beta Notes
-
-WARNING:
-You have 9 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p>
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
 
 **<span style="text-decoration:underline;">☛Aredro Public Beta Notes☚</span>**
 
@@ -47,11 +16,7 @@ Welcome to Aredro Public Beta! We are the development team of Aredro. Here is a 
 ---
 
 
-
-# <span style="text-decoration:underline;">INDEX</span>
-
-
-[TOC]
+<h2><span style="text-decoration:underline;">INDEX</span></h2>
 
 
 
@@ -59,8 +24,8 @@ Welcome to Aredro Public Beta! We are the development team of Aredro. Here is a 
 ---
 
 
+<h2 id="terms-&-conditions-must-read">Terms & Conditions (Must-read)</h2>
 
-# Terms & Conditions (Must-read) {#terms-&-conditions-must-read}
 
 **This document MUST be distributed together with the app <span style="text-decoration:underline;">(only during beta)</span>.**
 
@@ -81,8 +46,8 @@ ALL testers will be credited in our website, under /About/Testing. The tester’
 ---
 
 
+<h2 id="system-requirements">System Requirements</h2>
 
-# System Requirements {#system-requirements}
 
 
 
@@ -106,8 +71,8 @@ ALL testers will be credited in our website, under /About/Testing. The tester’
 ---
 
 
+<h2 id="reporting-bugs">Reporting bugs</h2>
 
-# Reporting bugs {#reporting-bugs}
 
 You may submit **one-sentence-long** bug-reports by commenting right HERE.
 
@@ -124,8 +89,8 @@ We will **not **inform you individually about the status (fixed, fixing) of the 
 ---
 
 
+<h2 id="making-suggestions-feedbacks">Making suggestions/feedbacks</h2>
 
-# Making suggestions/feedbacks {#making-suggestions-feedbacks}
 
 You may make **one-sentence-long** suggestions by commenting right HERE.
 
@@ -142,8 +107,8 @@ We value EVERY suggestion we receive, and promise to implement these suggestions
 ---
 
 
+<h2 id="known-bugs-glitches">Known bugs/glitches</h2>
 
-# Known bugs/glitches {#known-bugs-glitches}
 
 **Note: **This is the list of all known bugs/glitches/issues that affect the normal usage and functions of the app. It **does not** include suggestions for improvements that do not affect the functions of Aredro. (For received suggestions, [click here](#received-suggestions):)
 
@@ -170,8 +135,8 @@ The tag [DEV] means this bug is found by a developer. Bug(s) highlighted in gree
 ---
 
 
+<h2 id="received-suggestions">Received suggestions</h2>
 
-# Received suggestions {#received-suggestions}
 
 **Note: **This is the list of all received suggestions. It does not include reported bugs that will affect the normal usage of Aredro. (For list of bugs, [click here](#known-bugs-glitches):)
 
@@ -206,8 +171,8 @@ Reply from dev: Implemented in version 0.4.1.
 ---
 
 
+<h2 id="faq-frequently-asked-questions">FAQ (Frequently asked questions)</h2>
 
-# FAQ (Frequently asked questions) {#faq-frequently-asked-questions}
 
 **Q1.** How do I check the android version for my device?
 
@@ -292,8 +257,8 @@ If you have any other questions, feel free to drop us an email (refer to [FAQ Q1
 ---
 
 
+<h2 id="acknowledgments-must-read">Acknowledgments (Must-read)</h2>
 
-# Acknowledgments (Must-read) {#acknowledgments-must-read}
 
 This document _“Aredro Public Beta Notes”_ is FULLY written by the development team. All information provided is up-to-date and we will make necessary changes whenever needed. Hence, this document will be edited after it has been distributed (especially the [“known bugs” ](#known-bugs-glitches)section). So do check this document whenever possible. The development team will **not** inform the testers about the changes in the document.
 
@@ -306,8 +271,8 @@ This document _“Aredro Public Beta Notes”_ is FULLY written by the developme
 ---
 
 
+<h2 id="more-information">More information?</h2>
 
-# More information? {#more-information}
 
 
 
@@ -320,11 +285,5 @@ This document _“Aredro Public Beta Notes”_ is FULLY written by the developme
 *   [Meet the development team](https://sites.google.com/view/aredro/about/development-team)
 
 **For other information, kindly refer to our [official website](http://www.sites.google.com/view/aredro).**
-
-
-```
--THE END-
-```
-
 
 © Aredro Development Team, Hwa Chong Institution
