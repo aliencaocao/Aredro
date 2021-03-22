@@ -12,18 +12,6 @@ Latest Aredro App Version: **V 1.0.0 [Stable]**
 Welcome to Aredro Public Beta! We are the development team of Aredro. Here is a detailed guide on participating in Aredro Public Beta. Full clickable index below :)
 
 
-
----
-
-
-<h2><span style="text-decoration:underline;">INDEX</span></h2>
-
-
-
-
----
-
-
 <h2 id="terms-&-conditions-must-read">Terms & Conditions (Must-read)</h2>
 
 
