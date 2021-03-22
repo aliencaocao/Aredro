@@ -1,0 +1,46 @@
+Dear Students,
+
+As you work on your project from end of term 2 and June holidays onwards, it is a good idea to note down and archive your progress and other information so that all the important points are noted. This would lead to a better quality web-report. Hence, this EMB message is to illustrate how to FTP your web-report files.
+ 
+All project groups have to upload their web-reports for their mentors to evaluate. The group web-report is allocated 20%. For details about the common rubrics that your mentor would be using to evaluate the group web-report, please refer to the following links: http://hsprojectsday2017.wiki.hci.edu.sg/9.+Assessment+and+Rubrics.
+ 
+Students are strongly encouraged to do their webreport on free templates and upload it fully onto the School Projects Server, for archive and for future batches of students to refer to. Quite a number of past projects were done on free sites outside the school Projects Server. They simply do a link to the Project Server. After some years, when the free sites closed down or begin to charge a fee, the projects and the hard work also disappear along with it. In that sense, the school has lost control over the rights of the students' work.
+ There are royalty-free templates that you can use to create your own webpage:
+http://andreasviklund.com/
+http://www.html5webtemplates.co.uk/templates.html
+ 
+There are many of such sites and you can Google for them. You should cite the source of this free template as a gesture of courtesy and acknowledgment. You can also view past years web-reports at this link: http://hsprojectsday2017.wiki.hci.edu.sg/4.+Resources
+The group leader should FTP the group's web-report in HTML format onto the project server. As mentioned, all your works must be hosted (saved) on HCI project server. Some links to outside websites are ok, but your main work must be saved in HTML format and residing in our school server.
+
+Mr Joseph Tan Choo Kee has setup a step by step guide illustration to guide you along regarding FTP. Please click this link: http://createwebpage.wiki.hci.edu.sg/
+Please email Selva (selva@hci.edu.sg) or Mr Huang Guangdi (huanggd@hci.edu.sg) if you have issues with userid and password for FTP issues. Please keep me in the email loop via cc.
+
+You should have knowledge of the FTP process (except Sec 1 ProEd classes, these will be covered in term 3, week 3. You can learn it independently or ask your peers who know FTP well) as it had been covered during infocomm lessons.
+
+The FTP application software is available in our school computers in the Computer Labs or you can download free versions from the Web.
+
+Where there are big files and video files to upload, I suggest that the uploading be carried out in the school computer labs, as the network speed would be more tolerable.
+
+If you need help with FTP upload, please seek help politely from:
+
+1) Your infocomm teachers,
+2) Your seniors who had done it before,
+3) IT executives (Mr Lin or Mr Chen Dong Xing) at the Computer Lab Office (Tech Centre).
+
+The list of FTP project group leaders can be checked at this link: http://projectsday.hci.edu.sg/2017/01-Admin/Project_Work_Leader_Info%20-For_students.htm
+Every project leader is to:
+ 
+login with their group ID (i.e. grp1-23) and IC number (i.e. T1234567A),
+download the cover page to your local drive,
+fill in the yellow-coloured cell with the project group information, synopsis, link to start page and special instruction (if any).
+After you have FTP your files, all members in the group should check that your web-report pages have been uploaded successfully from the following link: http://projectsday.hci.edu.sg/2017/05-WebReport/content.html 
+
+Check through every link and every page for correct sequences and images. If there are Chinese character, ensure that the characters can be viewed in all browsers. To be sure that it works well, I suggest that you use another computer to view the link again. If only certain browsers can view it well, write a short note for the evaluators on the coverpage (under "special instructions for evaluators to take note"). Request all other members to check too.
+
+Please take note of plagiarism and copyrighted issues seriously. If you have taken or lifted portions of someone else work, it must be acknowledged. Severe punishment await those who flout this rule.
+Don't wait too long................. Start uploading bit by bit so that you will not forget the details of your project work as it progresses from now on.
+
+All the best and do also take time to re-charge and refresh during this June Holiday,
+
+Mr Chia Kok Pin
+IS Coordinator
